@@ -1,0 +1,6 @@
+[book]
+authors = ["Karan Sivarat"]
+language = "th"
+multilingual = false
+src = "src"
+title = "Spring-Boot 2021"
