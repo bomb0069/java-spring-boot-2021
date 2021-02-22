@@ -1,6 +1,5 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
 - [Spring Boot Features](./features/SUMMARY.MD)
 - [Controller](./controller/SUMMARY.MD)
 - [Structuring Your Code](./structure/SUMMARY.MD)
